@@ -1,7 +1,7 @@
 <%-- 
     Document   : count-add-car
     Created on : 12.06.2020, 22:07:01
-    Author     : Роман
+    Author     : Dmi3ev 
 --%>
 
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
@@ -16,7 +16,7 @@
     <body>
         <label><h2>Количество добавленных автомобилей = ${countAdd}</h2></label>
         </br>
-        <label><h2>Title add News = </h2></label>
+        <label><h2> Add Cars = </h2></label>
         <c:forEach items="${modelAdd}" var="model">
             <h2>${model}, </h2>
         </c:forEach>

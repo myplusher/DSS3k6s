@@ -6,20 +6,21 @@
 package dao;
 
 import java.util.List;
+import model.Car;
 
 /**
  *
- * @author Роман
+ * @author Dmi3ev
  */
-public interface IDAO <T> {
+public interface IDAO {
     
-    public List<T> getAll();
+    public List<Car> getAll();
     
-    public T getById(int id);
+    public Car getById(int id);
     
     public void delete(int id);
     
-    public void update(T model);
+    public void update(Car model);
     
-    public T create(T model);
+    public Car create(Car model);
 }

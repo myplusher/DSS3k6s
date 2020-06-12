@@ -7,7 +7,7 @@ package model;
 
 /**
  *
- * @author Роман
+ * @author Dmi3ev
  */
 public class Car {
     private int id;

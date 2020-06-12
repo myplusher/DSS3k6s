@@ -21,7 +21,7 @@ import model.Car;
 
 /**
  *
- * @author Роман
+ * @author Dmi3ev
  */
 public class AllCars extends HttpServlet{
     @EJB 

@@ -20,10 +20,10 @@ import model.Car;
 
 /**
  *
- * @author Роман
+ * @author Dmi3ev
  */
 @Stateless
-public class CarDAO implements IDAO <Car> {
+public class CarDAO implements IDAO {
     
     private static final Logger LOGGER = Logger.getLogger(CarDAO.class.getName());
     

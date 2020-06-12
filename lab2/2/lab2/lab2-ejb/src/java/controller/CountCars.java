@@ -10,7 +10,7 @@ import javax.ejb.Singleton;
 
 /**
  *
- * @author Роман
+ * @author Dmi3ev
  */
 @Singleton
 public class CountCars {

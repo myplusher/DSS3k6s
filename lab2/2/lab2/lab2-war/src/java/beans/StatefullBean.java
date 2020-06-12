@@ -14,7 +14,7 @@ import javax.enterprise.context.SessionScoped;
 
 /**
  *
- * @author Роман
+ * @author Dmi3ev
  */
 @Stateful
 @SessionScoped

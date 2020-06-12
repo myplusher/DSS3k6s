@@ -31,7 +31,7 @@ public class CountAddCar extends HttpServlet{
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
        request.setAttribute("countAdd", countCars.getCount());
        List<String> list =sb.returnList();
-       request.setAttribute("modeleAdd", list);
+       request.setAttribute("modelAdd", list);
        request.getRequestDispatcher("count-add-car.jsp").forward(request, response);
     }
     

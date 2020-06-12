@@ -10,7 +10,7 @@ import javax.ejb.Local;
 
 /**
  *
- * @author Роман
+ * @author Dmi3ev
  */
 @Local
 public interface IStatefullBean {
