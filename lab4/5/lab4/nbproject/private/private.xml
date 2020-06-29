@@ -3,7 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/D:/Михуил/Java3K6S/lab4/5/lab4/src/java/controllerCar/addCar.java</file>
             <file>file:/D:/Михуил/Java3K6S/lab4/5/lab4/src/java/bean/SessionBeanForTransaction.java</file>
+            <file>file:/D:/Михуил/Java3K6S/lab4/5/lab4/src/java/bean/SessionBeanForTransactionLocal.java</file>
+            <file>file:/D:/Михуил/Java3K6S/lab4/5/lab4/src/java/controllerCar/carList.java</file>
+            <file>file:/D:/Михуил/Java3K6S/lab4/5/lab4/src/java/controllerUser/editUser.java</file>
         </group>
     </open-files>
 </project-private>
